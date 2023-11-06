@@ -11,7 +11,7 @@ php access-node/index.php '<soapenv:Envelope xmlns:soapenv="http://schemas.xmlso
 <hr>
 
 ## Parâmetros
-<ul>
+<ol>
   <li>conteúdo xml (string)</li>
   <li>identificação da tag raiz/principal</li>
-</ul>
+</ol>
