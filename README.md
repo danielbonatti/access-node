@@ -1,5 +1,5 @@
 # xml-to-json
-Converte xml em json. Facilitar o tratamento do retorno ao transformar em json.
+Converte xml em json. Facilita o tratamento do retorno ao transformar em json.
 
 <hr>
 
